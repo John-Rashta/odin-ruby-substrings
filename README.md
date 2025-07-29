@@ -1,1 +1,1 @@
-# odin-ruby-substrings
+Project 2 for Ruby Odin Project.  
